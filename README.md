@@ -10,6 +10,9 @@ All you need to provide is your database -- PostgreSQL, Microsoft SQL Server or 
 
 ![Documize Community](https://github.com/documize/community/blob/master/screenshot.png?raw=true)
 
+## Activation
+![Documize Activation](documize-activation.png?raw=true)
+
 ## Latest Release
 
 [Community edition: v5.2.1](https://github.com/documize/community/releases)
